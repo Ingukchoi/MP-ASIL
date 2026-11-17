@@ -19,9 +19,9 @@ The model optimization process is fully guided by a self-labeling manner, elimin
 In addition, we develop a training scheme that adaptively controls the imitation intensity to reflect the quality of self-labels. Experimental results show that our method effectively addresses the aforementioned challenges and significantly outperforms state-of-the-art RL methods across six JSP variants.
 Furthermore, our approach also demonstrates strong performance on other combinatorial optimization problems, highlighting its versatility beyond JSPs.
 
-## Code Availability
+## 💻 Code Availability
 
-📦 The code for this paper is available in the **Supplemental** material on the [NeurIPS 2025 Proceedings page](https://papers.nips.cc/paper_files/paper/2025/hash/2330c4be5e12c504705ba1db8a507966-Abstract-Conference.html).
+🧑‍💻 The code for this paper is available in the **Supplemental** material on the [NeurIPS 2025 Proceedings page](https://papers.nips.cc/paper_files/paper/2025/hash/2330c4be5e12c504705ba1db8a507966-Abstract-Conference.html).
 
 ---
 If you find our code valuable for your research, please cite:
