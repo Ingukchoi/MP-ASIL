@@ -24,7 +24,7 @@ Furthermore, our approach also demonstrates strong performance on other combinat
 🧑‍💻 The code for this paper is available in the **Supplemental** material on the [NeurIPS 2025 Proceedings page](https://papers.nips.cc/paper_files/paper/2025/hash/2330c4be5e12c504705ba1db8a507966-Abstract-Conference.html).
 
 ---
-If you find our code valuable for your research, please cite:
+📝 If you find our code valuable for your research, please cite:
 ```bibtex
 @article{choi2026towards,
   title={Towards Generalizable Multi-Policy Optimization with Self-Evolution for Job Scheduling},
