@@ -11,7 +11,7 @@ with Self-Evolution for Job Scheduling
   <a href="https://openreview.net/forum?id=VPm6afl0Sc"><img src="https://img.shields.io/badge/NeurIPS%202025-Paper-B31B1B"></a>
 </p>
 
->This repository is the official implementation of our paper **Towards Generalizable Multi-Policy Optimization with Self-Evolution for Job Scheduling**, Advances in Neural Information Processing Systems (NeurIPS), vol. 38, pp. 24569–24616, 2025.
+>This repository is the official implementation of our paper, **Towards Generalizable Multi-Policy Optimization with Self-Evolution for Job Scheduling**, Advances in Neural Information Processing Systems (NeurIPS), vol. 38, pp. 24569–24616, 2025.
 
 <p align="center">
   <img src="./MP-ASIL.png" width="800">
