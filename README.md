@@ -4,6 +4,12 @@ Towards Generalizable Multi-Policy Optimization
 with Self-Evolution for Job Scheduling
 </h1>
 
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+  <a href="https://pytorch-geometric.readthedocs.io/"><img src="https://img.shields.io/badge/PyTorch%20Geometric-6A0DAD?logo=pytorch&logoColor=white"></a>
+  <a href="https://openreview.net/forum?id=VPm6afl0Sc"><img src="https://img.shields.io/badge/NeurIPS%202025-Paper-B31B1B"></a>
+</p>
 
 >This repository is the official implementation of our paper **Towards Generalizable Multi-Policy Optimization with Self-Evolution for Job Scheduling**, Advances in Neural Information Processing Systems (NeurIPS), vol. 38, pp. 24569–24616, 2025.
 
